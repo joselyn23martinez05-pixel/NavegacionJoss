@@ -1,0 +1,139 @@
+[2025-01-24 16:00:00]
+Description: Request to use .guidelines file in all requests.
+Prompt: Use .guidelines file in all request
+
+[2025-01-24 16:10:00]
+Description: Implement basic navigation between HomeScreen and DetailScreen.
+Prompt: Use the following information if relevant. (Context about AppNavigation.kt, HomeScreen.kt, DetailScreen.kt, etc.)
+
+[2025-01-24 16:15:00]
+Description: Implement AppNavigation and connect it to MainActivity.
+Prompt: Use the following information if relevant. (Context about AppNavigation.kt, HomeScreen.kt, DetailScreen.kt, etc.)
+
+[2025-01-24 16:30:00]
+Description: Implement AppNavigation and connect it to MainActivity following guidelines.
+Prompt: Use the following information if relevant. (Context about AppNavigation.kt, HomeScreen.kt, DetailScreen.kt, etc.)
+
+[2025-01-24 16:35:00]
+Description: Implement AppNavigation.kt logic.
+Prompt: Use the following information if relevant. (Context about AppNavigation.kt, HomeScreen.kt, DetailScreen.kt, etc.)
+
+[2025-01-24 16:40:00]
+Description: Update MainActivity.kt to use AppNavigation.
+Prompt: Use the following information if relevant. (Context about AppNavigation.kt, HomeScreen.kt, DetailScreen.kt, etc.)
+
+[2025-01-24 16:45:00]
+Description: Fix unused innerPadding warning in MainActivity and refine AppNavigation to accept a Modifier.
+Prompt: Use the following information if relevant.
+
+[2025-01-24 16:50:00]
+Description: Re-implement AppNavigation.kt with Jetpack Compose Navigation.
+Prompt: Use the following information if relevant.
+
+[2025-01-24 16:55:00]
+Description: Implementation of AppNavigation.kt logic following guidelines.
+Prompt: Use the following information if relevant. (Implementing the navigation logic between Home and Details)
+
+[2025-01-24 17:00:00]
+Description: Completing AppNavigation.kt implementation and ensuring project consistency.
+Prompt: Use the following information if relevant. (Context about AppNavigation.kt being empty)
+
+[2025-01-24 17:05:00]
+Description: Re-filling AppNavigation.kt with the necessary navigation logic.
+Prompt: Use the following information if relevant.
+
+[2025-01-24 17:25:00]
+Description: Fixing package name and import errors in AppNavigation, HomeScreen, and DetailScreen.
+Prompt: repara los errores
+
+[2025-01-24 17:30:00]
+Description: Fixing incorrect package names and unresolved references in navigation and screens.
+Prompt: repara los errores
+
+[2025-01-24 17:40:00]
+Description: Correcting package declaration and imports in AppNavigation.kt to match project structure.
+Prompt: repara los errores
+
+[2025-01-24 17:45:00]
+Description: Correcting package names and imports in AppNavigation.kt to resolve build errors.
+Prompt: repara los errores
+
+[2025-01-24 17:50:00]
+Description: Final fix for AppNavigation.kt package and imports to resolve unresolved references.
+Prompt: repara los errores
+
+[2025-01-24 18:00:00]
+Description: Resolving unresolved references by correcting package name to com.example.navegacionjoss.navigation and updating screen imports.
+Prompt: repara los errores
+
+[2025-01-24 18:10:00]
+Description: Fix package naming errors and unresolved references in AppNavigation, HomeScreen and DetailScreen.
+Prompt: repara los errores
+
+[2025-01-24 18:20:00]
+Description: Final verification and correction of packages and imports across all core files to fix compilation errors.
+Prompt: repara los errores
+
+[2025-01-24 18:30:00]
+Description: Fixing package declaration and screen imports in AppNavigation.kt.
+Prompt: repara los errores
+
+[2025-01-24 18:40:00]
+Description: Repairing package names and imports in AppNavigation.kt to match the project structure.
+Prompt: repara los errores
+
+[2025-01-24 18:50:00]
+Description: Correcting package name and imports in AppNavigation.kt to resolve build errors after structural changes.
+Prompt: repara los errores
+
+[2025-01-24 19:00:00]
+Description: Fixing package names and imports in AppNavigation.kt to match project structure and resolve compilation errors.
+Prompt: repara los errores
+
+[2025-01-24 19:10:00]
+Description: Correcting package name and imports in AppNavigation.kt to match the actual project folder structure and resolve unresolved references.
+Prompt: repara los errores
+
+[2025-01-24 19:20:00]
+Description: Fixing package naming and import errors in AppNavigation.kt to ensure project consistency.
+Prompt: repara los errores
+
+[2025-01-24 19:30:00]
+Description: Repairing AppNavigation.kt package and imports to fix unresolved references.
+Prompt: repara los errores
+
+[2025-01-24 19:40:00]
+Description: Fixing package names and imports across AppNavigation.kt to match project structure and resolve unresolved references.
+Prompt: repara los errores
+
+[2025-01-24 20:00:00]
+Description: Final correction of package declaration and imports in AppNavigation.kt to fix unresolved references and match file structure.
+Prompt: repara los errores
+
+[2025-01-24 20:10:00]
+Description: Resolving unresolved references by correcting package name and screen imports in AppNavigation.kt.
+Prompt: repara los errores
+
+[2025-01-24 20:20:00]
+Description: Comprehensive project-wide package and import repair to fix compilation errors.
+Prompt: repara los errores
+
+[2025-01-24 21:00:00]
+Description: Correcting package name and screen imports in AppNavigation.kt to match project structure and resolve unresolved reference errors.
+Prompt: repara los errores
+
+[2025-01-24 21:10:00]
+Description: Repairing AppNavigation.kt to fix package mismatch and unresolved references (HomeScreen and DetailScreen).
+Prompt: repara los errores
+
+[2025-01-24 21:20:00]
+Description: Final repair of AppNavigation.kt package and imports to fix compilation errors.
+Prompt: repara los errores
+
+[2025-01-24 21:40:00]
+Description: Change application background color to dark blue in MainActivity.
+Prompt: change the back color for dark blue
+
+[2025-01-25 11:30:00]
+Description: Add an image from resources to the HomeScreen.
+Prompt: add the option to upload an image from res in the homescreen
