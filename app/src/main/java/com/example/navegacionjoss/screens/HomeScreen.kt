@@ -45,12 +45,6 @@ fun HomeScreen(
         Spacer(modifier = Modifier.height(16.dp))
 
         // IA generated: Muestra una imagen desde la carpeta res/drawable (ic_launcher_foreground)
-// Muestra una imagen desde la carpeta res/drawable (interestelar)
-        Image(
-            painter = painterResource(id = R.drawable.Interestelar),
-            contentDescription = "Imagen Interestelar",
-            modifier = Modifier.size(120.dp)
-        )
 
         Spacer(modifier = Modifier.height(16.dp))
 
